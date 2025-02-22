@@ -1,6 +1,6 @@
 # Git Workflow & Branching Strategy
 
-##  Git Flow Strategy (Real-World Standard)
+##  Git Flow Strategy 
 We follow **Git Flow**, a branching model that ensures clean collaboration.
 
 ### ** Main Branches**
